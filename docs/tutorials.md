@@ -2,6 +2,6 @@
 
 Hello!
 
-I'm currently migrating my old WordPress site to a Github site with VitePress!
+I'm currently migrating my old WordPress site to Github Pages with VitePress!
 
 Please check back soon!
