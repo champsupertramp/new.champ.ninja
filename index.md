@@ -8,7 +8,7 @@ hero:
   tagline: I share coding & development tutorials.. and more.
   actions:
     - theme: brand
-      text: Read Tutorials
+      text: Read tutorials
       link: /tutorials
     - theme: alt
       text: Download Free Plugins
