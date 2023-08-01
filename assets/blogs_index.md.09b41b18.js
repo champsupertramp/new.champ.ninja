@@ -1,0 +1,1 @@
+import{_ as e,v as t,b as s}from"./chunks/framework.db3115df.js";const f=JSON.parse('{"title":"","description":"","frontmatter":{},"headers":[],"relativePath":"blogs/index.md","filePath":"blogs/index.md"}'),a={name:"blogs/index.md"};function n(r,o,d,i,c,_){return t(),s("div")}const m=e(a,[["render",n]]);export{f as __pageData,m as default};
